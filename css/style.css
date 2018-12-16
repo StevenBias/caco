@@ -1,9 +1,18 @@
-.section
+h1
 {
-   height: 650px;
-   width: 100%;
+   position: relative;
+   margin: auto;
+   padding: auto;
+   text-align: center;
 }
 
+p
+{
+   font-family: Helvetica;
+   text-align: center;
+   margin: 10%;
+   padding: auto;
+}
 
 .bloc
 {
@@ -45,9 +54,3 @@
    padding-top: 10%;
    text-align: center;
 }
-
-h2
-{
-}
-
-
