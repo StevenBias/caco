@@ -18,7 +18,7 @@ p
 
 .bloc
 {
-   color: #01DFD7;
+   color: #33ccff;
    width: 80%;
    height: 100%;
    background-color: white;
@@ -36,7 +36,7 @@ p
 
 .bloc:hover 
 {
-   background-color: #01DFD7;
+   background-color: #33ccff;
    color:white;
 }
 
